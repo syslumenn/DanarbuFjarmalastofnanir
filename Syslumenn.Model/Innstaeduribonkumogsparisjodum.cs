@@ -2,13 +2,11 @@ namespace Syslumenn
 {
     public class Innstaeduribonkumogsparisjodum
     {
-        public string Banki { get; set; }
-        public string Hofudbok { get; set; }
-        public string Reikningsnumer { get; set; }
+        public string AudkenniReiknings { get; set; } // banki-hb-numer
         public int StadaISK { get; set; }
-        public int AfallnirVextir { get; set; }
-        public int StadaSamtals { get; set; }
-        public string Mynt { get; set; }
+        public int AfallnirVextirISK { get; set; }
+        public int StadaSamtalsISK { get; set; }
+        public string Mynt { get; set; } // samkv. ISO staðli
     }
 
 }

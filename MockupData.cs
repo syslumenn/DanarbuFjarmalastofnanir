@@ -17,22 +17,18 @@
                     {
                         new Syslumenn.Innstaeduribonkumogsparisjodum()
                         {
-                            AfallnirVextir = 0,
-                            Banki = "0101",
-                            Hofudbok = "26",
-                            Reikningsnumer = "000001",
+                            AudkenniReiknings = "0101-26-000001",
+                            AfallnirVextirISK = 0,
                             StadaISK = 1000000,
-                            StadaSamtals = 0,
+                            StadaSamtalsISK = 0,
                             Mynt = "ISK"
                         },
                         new Syslumenn.Innstaeduribonkumogsparisjodum()
                         {
-                            AfallnirVextir = 0,
-                            Banki = "0101",
-                            Hofudbok = "26",
-                            Reikningsnumer = "000002",
+                            AudkenniReiknings = "0101-26-000002",
+                            AfallnirVextirISK = 0,
                             StadaISK = 1000000,
-                            StadaSamtals = 0,
+                            StadaSamtalsISK = 0,
                             Mynt = "ISK"
                         }
                     },
