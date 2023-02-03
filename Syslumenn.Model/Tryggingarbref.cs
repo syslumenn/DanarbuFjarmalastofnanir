@@ -1,9 +1,10 @@
 namespace Syslumenn
 {
-    public class Tryggingarbref
+    public class Tryggingar
     {
         public string Numer { get; set; }
-        public int StadaIsk { get; set; }
-        public string Mynt { get; set; }
+        public string Tegund { get; set; }
+        public string Andlag { get; set; }
+        public int StadaISK { get; set; }
     }    
 }

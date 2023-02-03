@@ -4,6 +4,6 @@ namespace Syslumenn
     {
         public string Utgefandi { get; set; }
         public string Audkenni { get; set; }
-        public int StadaIsk { get; set; }
+        public int StadaIsk { get; set; } // Markağsverğmæti 
     }
 }

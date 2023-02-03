@@ -78,9 +78,9 @@
                             Tegund = 1
                         }
                     },
-                    Tryggingarbref = new Syslumenn.Tryggingarbref[]
+                    Tryggingarbref = new Syslumenn.Tryggingar[]
                     {
-                        new Syslumenn.Tryggingarbref()
+                        new Syslumenn.Tryggingar()
                         {
                             Numer = "1234567890",
                             Mynt = "ÍSK",

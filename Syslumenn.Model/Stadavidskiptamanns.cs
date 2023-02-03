@@ -9,7 +9,7 @@ namespace Syslumenn
         public Verdbrefaogskuldabref[] VerdbrefaOgSkuldabref { get; set; }
         public Hlutabref[] Hlutabref { get; set; }
         public Utlan[] Utlan { get; set; }
-        public Tryggingarbref[] Tryggingarbref { get; set; }
+        public Tryggingar[] Tryggingarbref { get; set; }
         public Abyrgdvegna3jaadila[] AbyrgdVegna3jaAdila { get; set; }
         public Geymsluholf[] Geymsluholf { get; set; }
         public Skjol[] Skjol { get; set; }
